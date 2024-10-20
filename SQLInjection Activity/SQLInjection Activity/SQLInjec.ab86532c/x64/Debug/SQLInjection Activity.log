@@ -1,0 +1,4 @@
+﻿  SQLInjection.cpp
+C:\Users\scgla\OneDrive\SNHU\CS 405 Secure Coding\Module Two\CS 405 M2 SQLInjection code files\SQLInjection.cpp(184,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sqlite3.c
+  SQLInjection Activity.vcxproj -> C:\Users\scgla\OneDrive\SNHU\CS 405 Secure Coding\Module Two\SQL Injection Activity\SQLInjection Activity\SQLInjection Activity\x64\Debug\SQLInjection Activity.exe
